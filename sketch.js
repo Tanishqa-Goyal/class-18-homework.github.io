@@ -9,7 +9,7 @@ var END=0;
 var gameState=1;
 
 function preload(){
-  pathImg = loadImage("road.png");
+  pathImg = loadImage("Road.png");
   boyImg = loadAnimation("Runner-1.png","Runner-2.png");
   cashImg = loadImage("cash.png");
   diamondsImg = loadImage("diamonds.png");
